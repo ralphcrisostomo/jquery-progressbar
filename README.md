@@ -11,9 +11,7 @@ A Youtube Progress Bar jQuery Plugin
 Add the following inside your `<head></head>` element.
 
     <link rel="stylesheet" href="stylesheets/jquery.progressbar.css"/>
-    
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js" type="text/javascript"></script>
-    
     <script src="javascripts/jquery.progressbar.js" type="text/javascript"></script>
 
 ### 2. Javascript
