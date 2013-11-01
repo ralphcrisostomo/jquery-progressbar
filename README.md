@@ -8,7 +8,7 @@ A Youtube Progress Bar jQuery Plugin
 
 ## Installation
 
-Add jQuery (1.8 or above), [jquery.progressbar.js ](https://raw.github.com/ralphcrisostomo/progressBarJS/master/build/javascripts/jquery.progressbar.js) and [jquery.progressbar.js](https://raw.github.com/ralphcrisostomo/progressBarJS/master/build/stylesheets/jquery.progressbar.css) to your project.
+Add jQuery (1.8 or above), [jquery.progressbar.js ](https://raw.github.com/ralphcrisostomo/progressBarJS/master/build/javascripts/jquery.progressbar.js) and [jquery.progressbar.css](https://raw.github.com/ralphcrisostomo/progressBarJS/master/build/stylesheets/jquery.progressbar.css) to your project.
 
 
 
