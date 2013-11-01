@@ -39,7 +39,7 @@
           <file leaf-file-name="index.html.haml" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/source/index.html.haml">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="10" column="36" selection-start="193" selection-end="193" vertical-scroll-proportion="0.21067415">
+                <state line="10" column="17" selection-start="174" selection-end="174" vertical-scroll-proportion="0.21067415">
                   <folding />
                 </state>
               </provider>
@@ -294,7 +294,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/index.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="36" selection-start="193" selection-end="193" vertical-scroll-proportion="0.21067415">
+        <state line="10" column="17" selection-start="174" selection-end="174" vertical-scroll-proportion="0.21067415">
           <folding />
         </state>
       </provider>

@@ -6,15 +6,13 @@ A Youtube Progress Bar jQuery Plugin
 ### DEMO
 [View Demo](http://demo.ralphcrisostomo.net/progressBarJS/)
 
-### 1. Setup
+## Installation
 
-Add the following inside your `<head></head>` element.
+Add jQuery (1.8 or above), [jquery.progressbar.js ](https://raw.github.com/ralphcrisostomo/progressBarJS/master/build/javascripts/jquery.progressbar.js) and [jquery.progressbar.js](https://raw.github.com/ralphcrisostomo/progressBarJS/master/build/stylesheets/jquery.progressbar.css) to your project.
 
-    <link rel="stylesheet" href="stylesheets/jquery.progressbar.css"/>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js" type="text/javascript"></script>
-    <script src="javascripts/jquery.progressbar.js" type="text/javascript"></script>
 
-### 2. Javascript
+
+## Javascript
 
 Just simply attach progress bar plugin into body element and simply increment the progress from `0` to `100`. 
 Reaching `100` will automatically fade out and remove the progress bar from the DOM.	 
@@ -22,7 +20,7 @@ Reaching `100` will automatically fade out and remove the progress bar from the 
 	$("body").progressbar(1)
 	$("body").progressbar(100)
 	
-### 3. Future
+## Future
 
 Roadmap on progressBar.js development are:
 
@@ -30,7 +28,7 @@ Roadmap on progressBar.js development are:
 - Backbone integration
 - PreloadJs integration
 
-# Acknowledgements
+## Acknowledgements
 
 © 2013, Ralph Crisostomo Released under the [MIT License](License.md).
 
