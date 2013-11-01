@@ -29,3 +29,13 @@ Roadmap on progressBar.js development are:
 - AJAX integration
 - Backbone integration
 - PreloadJs integration
+- 
+
+Acknowledgements
+----------------
+
+© 2013, Ralph Crisostomo Released under the [MIT License](License.md).
+
+*progressBarJS** is authored and maintained by [Ralph Crisostomo][rrec]
+
+[rrec]: http://ralphcrisostomo.net
