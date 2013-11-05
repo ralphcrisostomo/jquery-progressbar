@@ -1,4 +1,4 @@
-# progressBar.js
+# progressBar.js 0.0.1
 
 
 A Youtube Progress Bar jQuery Plugin
